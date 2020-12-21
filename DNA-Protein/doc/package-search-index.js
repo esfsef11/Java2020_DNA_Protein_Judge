@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.jbji"},{"l":"com.jbji.Encoder"},{"l":"com.jbji.Encoder.EncodeUtility"},{"l":"com.jbji.Encoder.EncodeUtility.dict"},{"l":"com.jbji.sample"},{"l":"com.jbji.sample.excpetion"},{"l":"com.jbji.sample.io"},{"l":"com.jbji.UserInterface.frame"},{"l":"com.jbji.UserInterface.runner"}];updateSearchResults();
