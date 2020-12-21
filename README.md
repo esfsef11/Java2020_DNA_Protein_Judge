@@ -1,6 +1,6 @@
 # Java2020_DNA_Protein_Judge
 Work for Java Course, Beijing Institute of Technology, 2020, BinLiu
-# To Check Complete Version of This Development Doc, Please download the PDF File in the Repository.
+# To Check Complete Version of this Development Doc, please download the PDF File in the root of master repository.
 # 要查看带完整开发文档，请下载根目录下的PDF文件
 
 ## 面向真实科学问题的 Java 课程设计
